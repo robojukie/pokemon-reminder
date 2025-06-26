@@ -19,15 +19,8 @@ const run = async () => {
     console.error('------------------------CONFIG------------------------')
     console.error(config)
 
-    console.error('------------------------SECRET------------------------')
-    console.error(secrets)
-
     console.error('------------------------CONTEXT------------------------')
     console.error(context)
-
-    console.error('------------------------ENV----------------------------')
-    console.error(process.env)
-
     // Example client code:
 }
 
